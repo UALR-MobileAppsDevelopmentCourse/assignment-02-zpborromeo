@@ -25,4 +25,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     // TODO 07. Create a new method called cleanTextField to delete the text inside the text field
+    public void cleanTextField(){
+
+    }
 }

@@ -1,6 +1,6 @@
 apply plugin: 'com.android.application'
 
-// TODO 10. Modify the build configuration to make the app compatible with devices running an Android version above 14
+// DONE TODO 10. Modify the build configuration to make the app compatible with devices running an Android version above 14
 
 android {
     compileSdkVersion 30
